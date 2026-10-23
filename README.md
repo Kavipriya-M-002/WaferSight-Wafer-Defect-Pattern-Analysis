@@ -116,12 +116,6 @@ Random Forest achieved higher overall accuracy. Logistic Regression achieved hig
 
 These results show a trade-off between overall correctness and performance across categories. Neither model is established as universally superior.
 
-### Feature importance
-
-The fitted Random Forest assigned the highest importance to `defect_rate_pct`, followed by `edge_defect_rate_pct` and `defective_die_count`.
-
-Feature importance reflects the fitted model's use of the input features. It does not establish physical causation or manufacturing root causes.
-
 ## Repository structure
 
 ```text
