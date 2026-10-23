@@ -125,7 +125,7 @@ Feature importance reflects the fitted model's use of the input features. It doe
 ## Repository structure
 
 ```text
-WaferSight-Wafer-Defect-Analysis/
+WaferSight-Wafer-Defect-Pattern-Analysis/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
