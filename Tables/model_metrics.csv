@@ -1,2 +1,0 @@
-model,training_samples,testing_samples,features,accuracy,balanced_accuracy,macro_f1
-Random Forest,328,82,7,0.6829268292682927,0.6104684265010352,0.5886779204402155
