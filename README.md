@@ -74,7 +74,9 @@ The following measurements were calculated for each labelled wafer:
 - Center share of defective dies
 - Edge share of defective dies
 
-The defect rate was calculated as the number of defective dies divided by the number of valid dies, multiplied by 100.
+Defect rate is calculated as:
+
+Defect rate (%) = Defective die count / Valid die count × 100
 
 The center and edge measurements use a geometric approximation. They are exploratory metrics, not an industry-standard wafer-zone classification.
 
