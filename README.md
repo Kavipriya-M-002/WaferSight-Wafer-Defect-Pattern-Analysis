@@ -78,13 +78,7 @@ Defect rate (%) = Defective die count / Valid die count × 100
 
 The center and edge measurements use a geometric approximation. They are exploratory metrics, not an industry-standard wafer-zone classification.
 
-### 5. Data validation and correction
-
-During development, a row-alignment problem was identified between the earlier Phase 3 metrics and the wafer labels. The metrics were recalculated directly from each wafer map while retaining its associated defect label.
-
-The corrected metrics were then used to retrain and evaluate the models. Earlier evaluation scores were discarded in favor of the corrected results.
-
-### 6. Machine-learning models
+### 5. Machine-learning models
 
 Two baseline classifiers were evaluated:
 
@@ -93,7 +87,7 @@ Two baseline classifiers were evaluated:
 
 The data was split into training and testing subsets using an 80/20 stratified split with a fixed random seed. The models were evaluated on the same test set.
 
-### 7. Evaluation metrics
+### 6. Evaluation metrics
 
 The evaluation includes:
 
