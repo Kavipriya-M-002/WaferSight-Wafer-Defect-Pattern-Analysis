@@ -2,9 +2,7 @@
 
 ## Overview
 
-WaferSight is an exploratory semiconductor wafer-map analysis project built using Python. It examines labelled wafer maps, calculates spatial defect metrics, visualizes defect patterns, and compares baseline machine-learning models for predicting wafer defect categories.
-
-The project uses the first 10,000 rows of the WM-811K / LSWMD wafer-map dataset. From this subset, 410 wafers with known defect categories were used for the quantitative analysis and classification experiment.
+WaferSight is an exploratory semiconductor wafer-map analysis project built using Python. It examines labelled wafer maps, calculates spatial defect metrics, visualizes defect patterns, and compares baseline machine-learning models for predicting wafer defect categories. The project uses the first 10,000 rows of the WM-811K / LSWMD wafer-map dataset. From this subset, 410 wafers with known defect categories were used for the quantitative analysis and classification experiment.
 
 **Project type:** Exploratory data analysis and baseline machine learning.
 
