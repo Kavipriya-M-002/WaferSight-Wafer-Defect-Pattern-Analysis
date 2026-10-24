@@ -134,8 +134,8 @@ WaferSight-Wafer-Defect-Pattern-Analysis/
     └── tables/
 ```
 
+**Interests:** Semiconductor manufacturing, wafer inspection, metrology, process engineering, and data-driven defect analysis.
+
 ## Disclaimer
 
 This is an educational and exploratory project for wafer-map analysis. It is not a validated semiconductor inspection system, and its results should not be interpreted as production-level defect-detection performance.
-
-Interests: Semiconductor manufacturing, wafer inspection, metrology, process engineering, and data-driven defect analysis.
