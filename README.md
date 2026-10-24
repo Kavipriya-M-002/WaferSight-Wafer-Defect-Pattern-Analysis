@@ -130,8 +130,6 @@ WaferSight-Wafer-Defect-Pattern-Analysis/
 ├── results/
 │   ├── figures/
 │   └── tables/
-└── docs/
-    └── methodology_and_limitations.md
 ```
 
 ## Disclaimer
