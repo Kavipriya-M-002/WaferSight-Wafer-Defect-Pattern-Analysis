@@ -119,11 +119,11 @@ WaferSight-Wafer-Defect-Pattern-Analysis/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-├── notebooks/
+├── Notebooks/
 │   └── Wafer_Defect_Analysis.ipynb
-├── results/
-    ├── figures/
-    └── tables/
+├── Results/
+    ├── Figures/
+    └── Tables/
 ```
 
 **Interests:** Semiconductor manufacturing, wafer inspection, metrology, process engineering, and data-driven defect analysis.
