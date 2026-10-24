@@ -128,8 +128,8 @@ WaferSight-Wafer-Defect-Pattern-Analysis/
 ├── notebooks/
 │   └── Wafer_Defect_Analysis.ipynb
 ├── results/
-│   ├── figures/
-│   └── tables/
+    ├── figures/
+    └── tables/
 ```
 
 ## Disclaimer
